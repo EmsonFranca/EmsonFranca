@@ -5,6 +5,4 @@
 
 ![Emson FrançaG itHub stats](https://github-readme-stats.vercel.app/api?username=ultraemson&show_icons=true&theme=dracula)
 
-## Tecnologia que eu uso no meu dia
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ultraemson)](https://github.com/ultraemson/github-readme-stats)
