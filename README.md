@@ -5,6 +5,7 @@
 
 ![Emson FrançaG itHub stats](https://github-readme-stats.vercel.app/api?username=ultraemson&show_icons=true&theme=dracula)
 ## Linguagem que utilizo no dia a dia!
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ultraemson&size_weight=0.5&count_weight=0.5)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ultraemson&layout=donut-vertical)](https://github.com/ultraemson/github-readme-stats)
 
