@@ -3,14 +3,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=427bfb&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Emson+França;I'm+25+years+old;I+from+Brasil,+RN;I+study+programming+languages+at+UFERSA;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ultraemson&show_icons=true&count_private=true&hide_border=true&title_color=427bfb&icon_color=427bfb&text_color=427bfb&bg_color=0d1117" alt="ultraemson github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ultraemson&layout=compact&hide_border=true&title_color=427bfb&text_color=427bfb&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EmsonFranca&show_icons=true&count_private=true&hide_border=true&title_color=427bfb&icon_color=427bfb&text_color=427bfb&bg_color=0d1117" alt="EmsonFranca github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmsonFranca&layout=compact&hide_border=true&title_color=427bfb&text_color=427bfb&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ultraemson&bg_color=0d1117&color=427bfb&line=427bfb&point=263d73&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EmsonFranca&bg_color=0d1117&color=427bfb&line=427bfb&point=263d73&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ultraemson&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=EmsonFranca&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center">  
@@ -46,7 +46,7 @@
  
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ultraemson}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{EmsonFranca}/count.svg" /></p> 
 <br></div>
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=427bfb&height=120&section=footer"/>
