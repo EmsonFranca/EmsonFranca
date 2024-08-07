@@ -1,33 +1,40 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=427bfb&height=120&section=header"/>
+<h2 align=“center”> 🚀 Olá, sou Emson França! Bem-vindo ao meu universo digital 🚀</h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=427bfb&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Emson+França;I'm+25+years+old;I+from+Brasil,+RN;I+study+programming+languages+at+UFERSA;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<h4 align=“center”>Como um dev Full Stack apaixonado 🥰 e Bacharel em Tecnologia da Informação, estou sempre em busca de novos desafios. Atualmente, estou aprimorando minhas habilidades na “Engenharia de Software” pela UFERSA. <br>Prepare-se para uma jornada emocionante 🤩 através do meu GitHub! 😄</h4>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EmsonFranca&show_icons=true&count_private=true&hide_border=true&title_color=427bfb&icon_color=427bfb&text_color=427bfb&bg_color=0d1117" alt="EmsonFranca github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmsonFranca&layout=compact&hide_border=true&title_color=427bfb&text_color=427bfb&bg_color=0d1117" />
+<div align="center">
+
+<a href="https://www.linkedin.com/in/emson-silva/"><img align="center" alt="Ricardo-link"  heigth="30" width="30" src="https://raw.githubusercontent.com/Ricardo-SS/Imagens/main/linkedin.png"></a>
+<a href="mailto:dev.emson@gmail.com"><img align="center" alt="Emson-email"  heigth="30" width="30" src="https://raw.githubusercontent.com/Ricardo-SS/Imagens/main/gmail.png"></a>
+
+ </div>
+
+<hr>
+<div style="display: flex; gap: 2px; align-items: center;" align="center" >
+
+  <a href="https://github.com/EmsonFranca">
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=EmsonFranca&show_icons=true&include_all_commits=true&count_private=true&bg_color=0E031B&title_color=00FFFF&text_color=ffffff&icon_color=00FFFF&border_radius=7&border_color=00b2ff&count_private=true"/>
+  </a>
+
+  <a href="https://github.com/EmsonFranca">
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmsonFranca&layout=compact&langs_count=7&bg_color=0E091B&title_color=7CFC00&text_color=ffffff&icon_color=ff2cdf&border_radius=7&border_color=7CFC00&count_private=true"/>
+  </a>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EmsonFranca&bg_color=0d1117&color=427bfb&line=427bfb&point=263d73&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EmsonFranca&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-<div align="center">  
-<a href="https://www.instagram.com/wallacy_thx/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "mailto:esf12364@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/emson-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-</div>
-  
- 
+##
 ### Main skills:
-  
-![GitHub](https://img.shields.io/badge/-c-0D1117?style=for-the-badge&logo=c&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117&textColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-  
+<div style="display: inline_block; gap: 30px" align="center">
+  </br>
+<img align="center" alt="Emson-html" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img align="center" alt="Emson-css" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img align="center" alt="Emson-Js" heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="center" alt="Emson-figma" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+<img align="center" alt="Emson-c"  heigth="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+<img align="center" alt="Emson-python"  heigth="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="center" alt="Emson-git"  heigth="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  </br>
+</div>
+
 ### Tools:
   
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
@@ -40,7 +47,6 @@
 ### Studying in this moment:
   
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![REACT](https://img.shields.io/badge/-REACT-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&textColor=0D1117)&nbsp;
 
  
