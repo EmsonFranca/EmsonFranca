@@ -1,6 +1,6 @@
 <h2 align=“center”> 🚀 Olá, sou Emson França! Bem-vindo ao meu universo digital 🚀</h2>
 
-<h4 align=“center”>Dev Full Stack apaixonado 🥰 e  estou sempre em busca de novos desafios. Atualmente, estou aprimorando minhas habilidades no curso “Bacharel em Tecnologia da Informação,” pela UFERSA. <br>Prepare-se para uma jornada emocionante 🤩 através do meu GitHub! 😄</h4>
+<h4 align=“center”>Dev Full Stack sempre em busca de novos desafios. Atualmente, estou aprimorando minhas habilidades no curso “Bacharel em Tecnologia da Informação,” pela UFERSA. <br>Prepare-se para uma jornada emocionante 🤩 através do meu GitHub! 😄</h4>
 
 <div align="center">
 
@@ -15,8 +15,7 @@
 <img loading="lazy" height="188em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmsonFranca&layout=compact&langs_count=7&theme=radical"/>
 <!-- <img width=40% align="center" src="https://github-readme-stats-git-main-EmsonFranca.vercel.app/api/top-langs/?username=EmsonFranca&show_icons=true&theme=radical&layout=compact" /> -->
 </div>
-
-##
+<hr>
 
 ### Main skills:
 
