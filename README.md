@@ -1,6 +1,6 @@
 <h2 align=“center”> 🚀 Olá, sou Emson França! Bem-vindo ao meu universo digital 🚀</h2>
 
-<h4 align=“center”>Dev Full Stack sempre em busca de novos desafios. Atualmente, estou aprimorando minhas habilidades no curso “Bacharel em Tecnologia da Informação,” pela UFERSA. <br>Prepare-se para uma jornada emocionante 🤩 através do meu GitHub! 😄</h4>
+<h4 align=“center”>Desenvolvedor Full Stack constantemente em busca de novos desafios. Possuo formação em Bacharelado em Tecnologia da Informação pela Universidade Federal Rural do Semi-Árido (UFERSA). Atualmente, estou aperfeiçoando minhas habilidades por meio do curso de Engenharia de Software na mesma instituição. <br>Prepare-se para uma jornada emocionante 🤩 através do meu GitHub! 😄</h4>
 
 <div align="center">
 
